@@ -147,7 +147,7 @@ autoclass_content = 'both'
 
 # -- HTML -------------------------------------------------------------------
 
-html_logo = '_static/docs__static_square_transparent_super_small.png'
+html_logo = '_static/docs__static_logo.png'
 html_favicon = '_static/full_green_square.png'
 html_css_files = ['custom.css']
 html_show_sphinx = False

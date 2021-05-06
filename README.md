@@ -1,3 +1,4 @@
+![logo](_static/docs__static_logo.png)
 # Konfuzio SDK
 
 The Konfuzio Software Development Kit (SDK) provides the tools to work with the data layer used by Konfuzio software.
