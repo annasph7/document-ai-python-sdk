@@ -24,4 +24,4 @@ jobs:
         with:
           dir: public
           branch: pages
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
